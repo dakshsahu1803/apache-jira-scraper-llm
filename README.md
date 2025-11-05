@@ -4,11 +4,7 @@
 <i>This project builds a fault-tolerant scraping and data transformation system that collects issue data from Apache Jira, processes it into a clean JSONL format, and prepares it for machine learning or LLM fine-tuning.</i>
 </p>
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.9%252B-blue.svg" alt="Python 3.9+">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Completed-green.svg" alt="Status: Completed">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-purple.svg" alt="License: MIT">
-</p>
+
 </div>
 
 <hr>
