@@ -4,7 +4,6 @@
 <i>This project builds a fault-tolerant scraping and data transformation system that collects issue data from Apache Jira, processes it into a clean JSONL format, and prepares it for machine learning or LLM fine-tuning.</i>
 </p>
 
-
 </div>
 <hr>
 <h1> Data : https://drive.google.com/drive/folders/1kB5AzNMXvSELRAo1Xig01uCykfxGdJiP?usp=sharing</h1>
