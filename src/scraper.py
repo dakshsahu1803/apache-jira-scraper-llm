@@ -17,7 +17,6 @@ def load_checkpoint():
         with open(CHECKPOINT_FILE, "r") as f:
             return json.load(f)
     return {project: 0 for project in PROJECTS}
-
 def save_checkpoint(checkpoint):
     with open(CHECKPOINT_FILE, "w") as f:
         json.dump(checkpoint, f)
