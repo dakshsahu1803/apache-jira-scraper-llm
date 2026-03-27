@@ -22,7 +22,6 @@ FIELDNAMES = [
     "derived_qa_question",
     "derived_qa_answer"
 ]
-
 def join_list(v, limit=None):
     if not v:
         return ""
